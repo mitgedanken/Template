@@ -2,7 +2,7 @@
 This is for templates, only.
 
 ## Local Templates
-- [Workflows / Actions](.local/Workflows_Actions.md)
+- [Workflows / Actions](.locals/Workflows_Actions.md)
 
 ## Contents
 - Workflows
