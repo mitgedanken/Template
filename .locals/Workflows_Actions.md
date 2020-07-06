@@ -1,3 +1,7 @@
+# Workflows / Actions
+
+## Template
+
 ``` markdown
 # {$NAME}
 - [Show](./.github/workflows/{$NAME}.yml)
